@@ -6,7 +6,16 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
 In this challenge, you’ll help Jeremy and the data analytics team do the following:
 
-- Deliverable 1: Linear Regression to Predict MPG : Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+### Deliverable 1: Linear Regression to Predict MPG : Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/MechaCar_lm_summary.png)
+
+- Q.1 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model.Using the MechaCar_mpg dataset,we can see that the vehicle_length and ground_clearance have a significant imapct on mpg.
+
+- Is the slope of the linear model considered to be zero? Why or why not?
+
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 - Deliverable 2: Summary Statistics on Suspension Coils : Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
