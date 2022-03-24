@@ -36,4 +36,11 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 ![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot3.pngv)
 
-#### Deliverable 4: Design a Study Comparing the MechaCar to the Competition : Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+#### Deliverable 4 Requirements
+You will earn a perfect score for Deliverable 4 by completing all requirements below:
+
+The statistical study design has the following:
+A metric to be tested is mentioned 
+A null hypothesis or an alternative hypothesis is described 
+A statistical test is described to test the hypothesis 
+The data for the statistical test is described 
