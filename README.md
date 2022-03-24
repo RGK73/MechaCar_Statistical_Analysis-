@@ -34,7 +34,7 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 ![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot2.png)
 
-![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot3.pngv)
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot3.png)
 
 #### Deliverable 4 Requirements
 You will earn a perfect score for Deliverable 4 by completing all requirements below:
