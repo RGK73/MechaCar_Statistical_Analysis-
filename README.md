@@ -12,6 +12,7 @@ Technologies Used:
 
 The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle.
 
+#### Linear Regression to Predict MPG
 Figure 1. Multiple linear regression data for mpg vs. all independent variables
 
 ![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/MechaCar_lm_summary.png)
@@ -32,6 +33,7 @@ The manufacturing data for all lots (Figure 1 below) shows that the suspension c
 
 - Q.1 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+#### Summary Statistics on Suspension Coils
 Figure 2 - Lot Summary of suspension coils
 
 ![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/summary_total.png)
