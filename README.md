@@ -20,8 +20,12 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 #### Deliverable 2: Summary Statistics on Suspension Coils : Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/summary_total.png)
+
 - Q.1 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 #### Deliverable 3: T-Test on Suspension Coils : Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/lot_summary.png)
 
 #### Deliverable 4: Design a Study Comparing the MechaCar to the Competition : Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
