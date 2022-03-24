@@ -28,6 +28,12 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 #### Deliverable 3: T-Test on Suspension Coils : Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_all_lots.png)
 
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot1.png)
+
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot2.png)
+
+![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_lot3.pngv)
 
 #### Deliverable 4: Design a Study Comparing the MechaCar to the Competition : Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
