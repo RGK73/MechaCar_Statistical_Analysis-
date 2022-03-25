@@ -28,7 +28,7 @@ lot_summary <- Suspension_Coil %>% group_by(Manufacturing_Lot) %>%
   summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), Std_Dev=sd(PSI))
 lot_summary
 
-####### Deliverable 3 #######
+####### Deliverable 3 T-Tests on Suspension Coils #######
 # level of significance is 0.05
 #H0 : mu=1500
 #Ha : mu <> 1500
