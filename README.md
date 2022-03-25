@@ -48,6 +48,8 @@ Figure 3 - Total Summary of suspension coils
 
 Using our knowledge of R, we performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The results are shown in Figures 5 through 8 below. The only lot with a statistical difference is Lot 3 (probably because of the high variance as shown in Figure 3 above).
 
+#### T-Tests on Suspension Coils
+
 Figure 4 - T-test for all lots vs. pop. mean of 1500 PSI - no statistical difference.
 
 ![alt text](https://github.com/RGK73/MechaCar_Statistical_Analysis-/blob/main/Images/ttest_all_lots.png)
